@@ -1,0 +1,4 @@
+evidence_id,complaint_id,source_ref,recorded_at,fact_kind,value,supersedes
+E-1,C-101,S-1,2026-04-02,sales_quote,续课服务说明,
+E-2,C-102,S-2,2026-04-04,household_correction,H-01,
+E-3,C-101,S-1,2026-04-07,sales_quote,补正后的片段,E-1

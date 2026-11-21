@@ -1,0 +1,5 @@
+complaint_id,household_ref,account_ref,merchant_ref,course_ref,submitted_at,kind,status,source_ref
+C-101,H-01,A-7,M-3,K-2,2026-04-02T10:00:00,续单压力,open,S-1
+C-102,H-01,A-7,M-3,K-2,2026-04-03T12:00:00,补充说明,open,S-2
+C-103,H-02,A-8,M-3,K-4,2026-04-04T09:30:00,退款争议,open,S-3
+C-104,H-03,A-9,M-4,K-2,2026-04-04T13:00:00,课程不符,withdrawn,S-4
