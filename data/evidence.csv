@@ -2,3 +2,9 @@ evidence_id,complaint_id,source_ref,recorded_at,fact_kind,value,supersedes
 E-1,C-101,S-1,2026-04-02,sales_quote,续课服务说明,
 E-2,C-102,S-2,2026-04-04,household_correction,H-01,
 E-3,C-101,S-1,2026-04-07,sales_quote,补正后的片段,E-1
+E-105,C-105,S-105,2026-04-25,order,合成材料-105,
+E-108,C-108,S-108,2026-04-01,order,合成材料-108,
+E-111,C-111,S-111,2026-04-04,order,合成材料-111,
+E-114,C-114,S-114,2026-04-07,order,合成材料-114,
+E-117,C-117,S-117,2026-04-10,order,合成材料-117,
+E-120,C-120,S-120,2026-04-13,order,合成材料-120,

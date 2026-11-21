@@ -1,3 +1,7 @@
 decision_id,complaint_id,action,reviewed_at,reviewer_ref,reason_code
 D-1,C-101,keep_separate,2026-04-05,R-1,different_purchase
 D-2,C-103,needs_documents,2026-04-06,R-2,missing_order
+D-108,C-108,needs_documents,2026-04-02,R-1,pending
+D-112,C-112,keep_separate,2026-04-06,R-2,distinct_purchase
+D-116,C-116,merge_review,2026-04-10,R-3,source_check
+D-120,C-120,needs_documents,2026-04-14,R-1,pending
