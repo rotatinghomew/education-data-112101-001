@@ -1,3 +1,9 @@
 order_id,household_ref,merchant_ref,course_ref,ordered_at,amount,refund_state
 O-1,H-01,M-3,K-2,2026-04-02,4800,partial
 O-2,H-02,M-3,K-4,2026-04-04,900,none
+O-105,H-01,M-2,K-1,2026-04-25,3225,partial
+O-108,H-04,M-1,K-4,2026-04-01,3300,none
+O-111,H-07,M-4,K-2,2026-04-04,3375,partial
+O-114,H-03,M-3,K-5,2026-04-07,3450,none
+O-117,H-06,M-2,K-3,2026-04-10,3525,partial
+O-120,H-02,M-1,K-1,2026-04-13,3600,none
